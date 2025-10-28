@@ -29,7 +29,7 @@
 
 ### 🌈 Sparkly GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nii-san&show_icons=true&theme=rose_pine&title_color=ffb6c1&text_color=89b9c9&icon_color=ffcce7" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Luxia&show_icons=true&theme=rose_pine&title_color=ffb6c1&text_color=89b9c9&icon_color=ffcce7" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luxia&layout=compact&theme=rose_pine&title_color=89b9c9&text_color=ffcce7" height="150"/>
 </p>
 
