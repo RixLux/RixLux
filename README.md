@@ -1,7 +1,7 @@
 <h1 align="center">🌸✨ Luxia~! Has Appeared! ✨🌸</h1>
 
 <p align="center">
-  <img src="https://i.imgur.com/xvxVN8F.gif" width="220" alt="Transformation!">
+  <img src="https://i.imgur.com/xvxVN8F.gif" width="500" alt="Transformation!">
 </p>
 
 <p align="center">
@@ -19,6 +19,7 @@
 ### 💫 My Magical Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,postgresql,firebase,git,linux,vscode" />
+<img src="https://i.imgur.com/FTfXiic.png" width="900" alt="Transformation!">
 </p>
 
 ---
@@ -48,7 +49,7 @@
 ---
 
 <p align="center">
-  <img src="https://i.imgur.com/qLo0LKH.gif" width="300" alt="Magical sparkle!">
+  <img src="https://i.imgur.com/qLo0LKH.gif" width="500" alt="Magical sparkle!">
 </p>
 
 <p align="center">
