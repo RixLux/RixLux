@@ -1,4 +1,4 @@
-<h1 align="center">🌸✨ Mahou~! Nii-san Has Appeared! ✨🌸</h1>
+<h1 align="center">🌸✨ Luxia~! Has Appeared! ✨🌸</h1>
 
 <p align="center">
   <img src="https://media.tenor.com/YvVQFQLyXqgAAAAC/magical-girl-anime.gif" width="220" alt="Transformation!">
