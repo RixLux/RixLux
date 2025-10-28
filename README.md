@@ -13,21 +13,17 @@
 
 ### 🎀 About Me
 - 🌷 Passionate Informatics student sprinkling magic into every project  
-- ☁️ Building dreamy web apps with **Firebase**, **PostgreSQL**, and **Node.js**  
-- 🔮 Experimenting with **MikroTik** network enchantments  
-- 🎵 Creating a **music app** that shines with rhythm and love~  
-- 🍰 Fueled by sweets, coffee, and late-night coding spells~ 💫  
 
 ---
 
-### 💎 My Magical Tools
+### 💫 My Magical Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,postgresql,firebase,git,linux,vscode" />
 </p>
 
 ---
 
-### 🌈 Sparkly GitHub Stats
+### 🌸✨ GitHub Stats 🌸✨
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Luxia&show_icons=true&theme=rose_pine&title_color=ffb6c1&text_color=89b9c9&icon_color=ffcce7" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luxia&layout=compact&theme=rose_pine&title_color=89b9c9&text_color=ffcce7" height="150"/>
