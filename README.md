@@ -1,7 +1,7 @@
 <h1 align="center">🌸✨ Luxia~! Has Appeared! ✨🌸</h1>
 
 <p align="center">
-  <img src="https://media.tenor.com/YvVQFQLyXqgAAAAC/magical-girl-anime.gif" width="220" alt="Transformation!">
+  <img src="https://i.imgur.com/xvxVN8F.gif" width="220" alt="Transformation!">
 </p>
 
 <p align="center">
@@ -52,7 +52,7 @@
 ---
 
 <p align="center">
-  <img src="https://media.tenor.com/KP6Y9b8h7fwAAAAC/magical-girl-anime.gif" width="300" alt="Magical sparkle!">
+  <img src="https://i.imgur.com/qLo0LKH.gif" width="300" alt="Magical sparkle!">
 </p>
 
 <p align="center">
