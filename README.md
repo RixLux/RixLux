@@ -41,9 +41,9 @@
 
 ### 💫 Links to My Magical Realm
 <p align="center">
-  <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/-Portfolio-ffcce7?style=for-the-badge&logo=safari&logoColor=white"></a>
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/-LinkedIn-89b9c9?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/-Email-f8bbd0?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://youtu.be/dQw4w9WgXcQ"><img src="https://img.shields.io/badge/-Portfolio-ffcce7?style=for-the-badge&logo=safari&logoColor=white"></a>
+  <a href="https://youtu.be/dQw4w9WgXcQ"><img src="https://img.shields.io/badge/-LinkedIn-89b9c9?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:luxia.10042002@gmail.com"><img src="https://img.shields.io/badge/-Email-f8bbd0?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 ---
