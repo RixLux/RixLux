@@ -45,10 +45,6 @@
   <a href="https://youtu.be/dQw4w9WgXcQ"><img src="https://img.shields.io/badge/-LinkedIn-89b9c9?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:luxia.10042002@gmail.com"><img src="https://img.shields.io/badge/-Email-f8bbd0?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
-<iframe width="1" height="1"
-  src="https://www.youtube.com/embed/dQw4w9WgXcQ?autoplay=1&mute=0"
-  allow="autoplay">
-</iframe>
 
 ---
 
